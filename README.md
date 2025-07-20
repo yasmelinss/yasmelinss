@@ -1,7 +1,8 @@
 ## Olá, pode me chamar de Yas!
 <div>
-  <a href="https://beacon.ai/yasmelinss">
-  <img heignt="180em" scr="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical&include_all_commits&count_private=true"/>
+  <a href="[https://beacon.ai/yasmelinss](https://github.com/yasmelinss)">
+  <img height="180em" scr="https://github-readme-stats.vercel.app/api?username=yasmelinss&show_icons=true&theme=radical&include_all_commits&count_private=true"/>
+  <img height="180em" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmelinss&yout=compact&langs_count=16&theme=radical"/>
 
 </div>
 
