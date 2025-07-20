@@ -1,6 +1,6 @@
 ## Olá, pode me chamar de Yas!
 <div>
-  <a href="https://github.com/yasmelinss">
+  <a href="https://gbeacon.ai/yasmelinss">
   <img heignt="180em" scr="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical&include_all_commits&count_private=true"/>
 
 </div>
