@@ -1,4 +1,9 @@
-## Hi there 👋
+## Olá, pode me chamar de Yas!
+<div>
+  <a href="https://github.com/yasmelinss">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasmelinss)]
+(https://github.com/yasmelinss/github-readme-stats)
+</div>
 
 <!--
 **yasmelinss/yasmelinss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +18,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 💕 windows + .
 -->
+
